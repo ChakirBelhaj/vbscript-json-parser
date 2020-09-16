@@ -6,6 +6,8 @@ This is a visual basic script json parser
 This is a asp classi json parser
 
 
+use the function =>  Function stringify(ByRef obj) to parse to json in aspclassic/vbscript
+
 <%
 
 Function CreateObjectVbsJson()
